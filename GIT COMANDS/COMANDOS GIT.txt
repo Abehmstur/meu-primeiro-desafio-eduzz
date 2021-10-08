@@ -1,0 +1,31 @@
+Windows
+- cd (navegar entre as pastas) ex: cd / (vai pra o local C) ex: cd windows
+- dir (lista pastas)
+- mkdir (mkdir cria pasta)
+- del (deleta somente arquivos dentro da pasta)/rmdir 
+- cls (limpar a prompt)
+- Botão TAB (auto completa a palavra)
+- echo (repete oque vc escreveu depois) 
+- echo hello > hello.txt (senão houver um arquivo com este nome, ele irá cria-lo)
+resultado: cria um arquivo hello.txt
+
+
+git init: inicia repositorio
+
+git add: move arquivos
+
+git commit cria commit
+
+ls no git bash: ls lista arquivos
+
+ctrl+L limpa tela do bash
+
+git add nome do arquivo
+
+git add * (move todos os arquivos para staged)
+
+git commit -m "passa uma mensagem"
+
+git remote add "apelido" https://github.com/Abehmstur/livro-receitas.git
+
+git config --list
